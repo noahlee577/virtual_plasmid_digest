@@ -9,9 +9,9 @@ The plasmid sequence included in the FASTA files are deposited on Addgene, as pa
 Article links can also be found here: [*Nature* (AMBRA1)](https://www.addgene.org/browse/article/28233110/), [*Cell Reports* (Tuba-seq)](https://www.sciencedirect.com/science/article/pii/S2211124723000013)
 
 Here are some example virtual digestion images:
-![NcoI XmaI FspI virtual digest gel-like image of multiple plasmids](https://github.com/noahlee577/virtual_plasmid_digest/output/blob/main/20190605 Ambra1 NcoI XmaI FspI Virtual Digest Reordered.png)
+![NcoI XmaI FspI virtual digest gel-like image of multiple plasmids](https://github.com/noahlee577/virtual_plasmid_digest/blob/main/output/20190605%20Ambra1%20NcoI%20XmaI%20FspI%20Virtual%20Digest%20Reordered.png)
 
-![Another gel-like virtual digestion image with a little bit larger panel of restriction enzymes](https://github.com/noahlee577/virtual_plasmid_digest/output/blob/main/20190605 Ambra1 XmaI Panel Virtual Digest.png)
+![Another gel-like virtual digestion image with a little bit larger panel of restriction enzymes](https://github.com/noahlee577/virtual_plasmid_digest/blob/main/output/20190605%20Ambra1%20XmaI%20Panel%20Virtual%20Digest.png)
 
 
 
