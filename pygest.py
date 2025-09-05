@@ -194,7 +194,7 @@ if verbose:
     print(all_df)
     print(plasmid_df)
 
-plasmid_df.T.to_excel("Digest.xlsx")
+plasmid_df.T.to_excel("./output/Digest.xlsx")
 
 #plt.figure(1, figsize=(8, 8))
 #graph = sns.scatterplot(data=all_df, markers=markers, legend=False, s=200)
@@ -212,5 +212,5 @@ plt.yscale('symlog', linthreshy=1000)
 graph2.set_yticks(NEB_Ladder)
 graph2.get_yaxis().set_major_formatter(matplotlib.ticker.ScalarFormatter())
 plt.xticks(rotation=90)
-plt.savefig("20190605 DoubleDigests.png", dpi=600)
+plt.savefig("./output/20190605 DoubleDigests.png", dpi=600)
 plt.show()
